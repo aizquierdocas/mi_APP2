@@ -1,0 +1,6 @@
+<INICIO>
+1. Obtener las tx del dcliente
+2. Obtener detalle de la tx
+3. Listar detalle en objetos
+
+<FIN>
